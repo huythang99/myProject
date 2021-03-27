@@ -1,10 +1,4 @@
-<%-- 
-    Document   : MyCartShop
-    Created on : Mar 5, 2021, 1:44:08 AM
-    Author     : Thang
---%>
 
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
     <head>
